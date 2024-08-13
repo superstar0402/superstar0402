@@ -14,7 +14,7 @@
 </p> -->
 
 <p align="center">
-  <a href="https://github.com/senior-dev-1019"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Blockchain%20expert;7%2B%20years%20of%20coding%20experience;Full%20stack%20senior%20developer;I am always working for customers&font=Pacifico&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/senior-dev-1019"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Blockchain%20expert;7%2B%20years%20of%20coding%20experience;Full%20stack%20senior%20developer;I%20am%20always%20working%20for%20customers&font=Pacifico&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 ## ⚡ Technologies
